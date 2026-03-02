@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: wheat;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  background: lightseagreen;
+  display: inline-block;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px  black;
+}
+
+input, select, button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+#qrContainer {
+  margin-top: 1rem;
+}
+
+.controls label {
+  display: block;
+  margin: 0.5rem;
+}
+
+.actions {
+  margin-top: 1rem;
+}
